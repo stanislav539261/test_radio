@@ -1,0 +1,5 @@
+C:/test_radio/build/CMakeFiles/test_radio.dir
+C:/test_radio/build/CMakeFiles/edit_cache.dir
+C:/test_radio/build/CMakeFiles/rebuild_cache.dir
+C:/test_radio/build/external/json/CMakeFiles/edit_cache.dir
+C:/test_radio/build/external/json/CMakeFiles/rebuild_cache.dir
